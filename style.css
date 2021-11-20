@@ -1,0 +1,70 @@
+p{
+    font-family: 'Permanent Marker', cursive;
+}
+.line{
+    height: 5px;
+    width: 1000px;
+    background-color: black;
+    margin: auto;
+}
+#Welcome{
+    background: linear-gradient(#0c0273, #0e48ad, #27b4db, #64f5e2);
+    text-align: center;
+    padding: 70px;
+}
+#menu{
+    list-style: none;
+    background-color: red;
+    position: fixed;
+    font-family:cursive;
+    top: 10px;
+    right: 30px;
+    color: black;
+}
+.links{
+    float: right;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    color: crimson;
+    display: inline;
+}
+#About{
+    background: linear-gradient(#b01207, #eb7f78);
+}
+body{
+    text-align: center;
+    background-color: pink;
+}
+.space{
+    background-color: black;
+    height: 20px;
+    width: 1300px;
+    margin: auto;
+}
+h4{
+    font-size: 25px;
+}
+#Myfavouritebooks{
+    background: linear-gradient(#12b037, #27d950, #42ed6a, #97f7ad);
+}
+#bookreview{
+    background-color: orange;
+}
+#Shannon{
+    width: 248px;
+}
+#Rowling{
+    width: 185px;
+}
+#Authors{
+    background: linear-gradient(#5203ff 0%, #9a03ff 50%, #e603ff 100%);
+}
+h1{
+    color: greenyellow;
+}
+#Contacts{
+    width: 100%;
+}
